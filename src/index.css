@@ -2,6 +2,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  background-color: rgb(255, 255, 255);
 }
 
 main {
@@ -12,6 +13,8 @@ main {
   background: #fff;
   padding: 15px;
   box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+  
+
 }
 
 .grid-view {
@@ -36,4 +39,5 @@ main {
 
 header h1 {
   text-align: center;
+  color: black;
 }
